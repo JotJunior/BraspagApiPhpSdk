@@ -9,6 +9,6 @@ Copy src/conf/ApiBraspagConfig.php.example to src/conf/ApiBraspagConfig.php.
 The new name is ignored by git (see .gitignore).
 Fill in the values of your MerchandId and MerchandKey.
 
-## Exemples
-You can see examples of use in fales prefixed with "example_{operation}" inside Exemples folder.
+## Examples
+You can see examples of use in fales prefixed with "example_{operation}" inside Examples folder.
 
